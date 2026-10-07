@@ -13720,6 +13720,330 @@
    "verification": "partially-confirmed",
    "enrichment": "Added: seizure value Rs 12.4 lakh (raw materials including chemicals and other items); raid location Roshan Baug-Faizan Compound, Bhiwandi; police station Bhoiwada; raid date Monday 2024-08-05 following a tip; FIR under provisions of the Drugs and Cosmetics Act against factory owner and four others who helped in supply of raw materials and sale/distribution of the medicines; the accused had been manufacturing the products illegally for about five months without a permit or any formal training. No batch numbers, hospital names, FIR number, or specific sections were disclosed in the article.",
    "record_count": 1
+  },
+  {
+   "id": "MH-2026-09-thane-wagle-estate-spurious",
+   "case_title": "Thane: police bust counterfeit prescription-medicine racket at Wagle Estate; fake versions of prominent companies' brands worth Rs 2.84 lakh seized, two held (a Mumbai man and an accomplice from a Lucknow pharma firm)",
+   "state": "Maharashtra",
+   "city": "Wagle Estate, Thane",
+   "date": "2026-09-21",
+   "agency": "Thane Police (acting on a complaint by a senior official of a pharmaceutical company)",
+   "accused": [
+    {
+     "name": "not reported (man from Mumbai intercepted at Wagle Estate on 21 Sep 2026)",
+     "role": "accused; manufactured and stocked spurious drugs without a manufacturing or sales licence; trying to sell to an unauthorised buyer",
+     "firm": "not reported",
+     "location": "Mumbai"
+    },
+    {
+     "name": "not reported (accomplice from a pharmaceuticals firm in Lucknow)",
+     "role": "accused; associated with a Lucknow pharmaceutical firm (name not reported)",
+     "firm": "unnamed pharmaceuticals firm, Lucknow",
+     "location": "Lucknow, Uttar Pradesh"
+    }
+   ],
+   "firms": [
+    "Unnamed pharmaceuticals firm, Lucknow (accomplice's firm; name not reported)"
+   ],
+   "products": [
+    {
+     "brand": "fake versions of widely used prescription medicines of prominent pharmaceutical companies (brand names not reported)",
+     "generic": "",
+     "original_manufacturer": "prominent pharmaceutical companies (not named)",
+     "batch": "",
+     "issue": "counterfeit; no manufacturing or sales licence"
+    }
+   ],
+   "fir_details": "Case registered by Thane Police after interception on 21 September 2026; FIR number, police station and sections not reported in the accessible summaries",
+   "seizure_value_inr": "Rs 2.84 lakh",
+   "hospital_link": "none reported",
+   "status": "Two persons taken into custody; consignment seized; investigation on",
+   "sources": [
+    "https://theguardianchronicle.com/counterfeit-medicine-racket-busted-in-thane-spurious-drugs-worth-%E2%82%B92-84-lakh-seized-2-arrested/",
+    "https://navbharatlive.com/maharashtra/thane/thane-wagle-estate-spurious-drugs-racket-busted-rgs12",
+    "https://www.rokthoklekhani.com/article/51984/fake-medicine-racket-busted-in-thane-medicines-worth-%E2%82%B9284-lakh"
+   ],
+   "confidence": "medium",
+   "priority": "P2-major-racket",
+   "verification": "search-sourced",
+   "enrichment": "Added 7 Oct 2026 from search summaries; the three source pages could not be opened (proxy block)."
+  },
+  {
+   "id": "MH-2026-07-cadila-aciloc-plus-recall-cfa-licences",
+   "case_title": "Maharashtra FDA bars sale of Cadila Pharmaceuticals' Aciloc 150+ and Aciloc 300+ (famotidine sold under the ranitidine brand name), seizes stock worth Rs 2,45,37,490, orders market recall and cancels the sale and distribution licences of Cadila's CFA warehouses in Pune, Nagpur and Bhiwandi (Thane)",
+   "state": "Maharashtra",
+   "city": "Pune; Nagpur; Bhiwandi (Thane)",
+   "date": "2026-07-09 to 2026-07-12 (inspections 9-10 July 2026; orders reported 12 July 2026)",
+   "agency": "Food and Drug Administration, Maharashtra (Commissioner Tukaram Mundhe)",
+   "accused": [
+    {
+     "name": "not reported (company action; no individual named)",
+     "role": "manufacturer and brand owner",
+     "firm": "Cadila Pharmaceuticals Ltd",
+     "location": "Ahmedabad, Gujarat (CFA warehouses in Pune, Nagpur and Bhiwandi, Maharashtra)"
+    }
+   ],
+   "firms": [
+    "Cadila Pharmaceuticals Ltd - CFA (carrying and forwarding) warehouse, Pune (sale and distribution licence cancelled)",
+    "Cadila Pharmaceuticals Ltd - CFA warehouse, Nagpur (sale and distribution licence cancelled)",
+    "Cadila Pharmaceuticals Ltd - CFA warehouse, Bhiwandi, Thane (sale and distribution licence cancelled)"
+   ],
+   "products": [
+    {
+     "brand": "Aciloc 150+ (Aciloc 150 Plus)",
+     "generic": "famotidine 20 mg",
+     "original_manufacturer": "Cadila Pharmaceuticals Ltd",
+     "batch": "not reported",
+     "issue": "brand confusion: packaging nearly identical to Aciloc 150 (ranitidine 150 mg) with only a '+' added; famotidine supplied against retailers' ranitidine orders; sale barred, recall ordered"
+    },
+    {
+     "brand": "Aciloc 300+ (Aciloc 300 Plus)",
+     "generic": "famotidine",
+     "original_manufacturer": "Cadila Pharmaceuticals Ltd",
+     "batch": "not reported",
+     "issue": "brand confusion with Aciloc 300 (ranitidine); sale barred, recall ordered"
+    }
+   ],
+   "fir_details": "No FIR reported; FDA said further investigation is under way and legal action will be initiated under the Drugs and Cosmetics Act, 1940 based on findings",
+   "seizure_value_inr": "Rs 2,45,37,490 (entire available stock of Aciloc 150+ and 300+ prohibited from sale and distribution)",
+   "hospital_link": "none reported; relevant to hospital pharmacies because the two products look alike and contain different drugs (dispensing-error risk)",
+   "status": "Sale and distribution of Aciloc 150+ and 300+ prohibited; recall ordered; licences of the three CFA warehouses cancelled; legal action to follow",
+   "sources": [
+    "https://www.freepressjournal.in/mumbai/maharashtra-fda-cancels-cadila-cfa-warehouse-licences-in-thane-pune-nagpur-over-acilloc-brand-concerns",
+    "https://www.thebridgechronicle.com/pune/pune-cadila-similar-drug-names-fda-cancels-three-warehouse-licences-agn97",
+    "https://www.thebridgechronicle.com/pune/fda-recalls-aciloc-plus-medicines-rs-2-45-crore-medication-confusion-risk-agn97",
+    "https://newsable.asianetnews.com/india/maha-fda-seizes-aciloc-plus-worth-rs-2-45-cr-over-deceptive-branding-articleshow-84gys04",
+    "https://thenewsmill.com/2026/07/maharashtra-fda-orders-recall-of-rs-2-45-crore-cadila-pharma-aciloc-stock-over-deceptive-branding/",
+    "https://bilkulonline.com/2026/07/12/maharashtra-fda-bars-sale-of-cadila-pharmaceuticals-drugs-seizes-rs-2-45-crore-stock/",
+    "https://sambadenglish.com/national-international-news/india/cadila-pharmaceuticals-drugs-barred-in-maharashtra-245-crore-stock-seized-by-fda-12155642",
+    "https://www.webnewswire.com/2026/07/12/maharashtra-fda-bars-sale-of-two-cadila-drugs-over-branding-concerns/"
+   ],
+   "confidence": "high",
+   "priority": "P3-regulatory-alert",
+   "verification": "search-sourced",
+   "enrichment": "Added 7 Oct 2026; consistent across eight outlets' summaries; pages could not be opened (proxy block)."
+  },
+  {
+   "id": "MH-2025-07-malad-pranada-buildcon-expired-godown",
+   "case_title": "Mumbai: FDA raid on an unlicensed warehouse of Pranada Buildcon Private Limited, Malad West; 317 boxes of unlicensed and expired medicines (reported value in crores) seized",
+   "state": "Maharashtra",
+   "city": "Malad West, Mumbai",
+   "date": "31 July (year not confirmed; the drugscontrol.org item sequence suggests 2025)",
+   "agency": "Food and Drug Administration, Maharashtra (Mumbai)",
+   "accused": [
+    {
+     "name": "not reported",
+     "role": "warehouse owner",
+     "firm": "Pranada Buildcon Private Limited",
+     "location": "Malad West, Mumbai"
+    }
+   ],
+   "firms": [
+    "Pranada Buildcon Private Limited, Malad West, Mumbai (warehouse owner; unlicensed storage of expired medicines)"
+   ],
+   "products": [
+    {
+     "brand": "expired medicines for various ailments, including hair oil (317 boxes; brands not reported)",
+     "generic": "",
+     "original_manufacturer": "not reported",
+     "batch": "not reported",
+     "issue": "unlicensed storage; expired stock"
+    }
+   ],
+   "fir_details": "not reported",
+   "seizure_value_inr": "reported as worth crores (Lokshahi); drugscontrol.org headline says Rs 3 crore",
+   "hospital_link": "none reported",
+   "status": "Stock seized; investigation on",
+   "sources": [
+    "https://english.lokshahi.com/maharashtra/fda-conducts-major-operation-in-malad-mumbai-goods-worth-crores-seized",
+    "https://drugscontrol.org/news-detail.php?newsid=42890",
+    "https://www.youtube.com/watch?v=SXIAh2rz2x8"
+   ],
+   "confidence": "medium",
+   "priority": "P4-minor",
+   "verification": "search-sourced",
+   "enrichment": "Added 7 Oct 2026; date year unconfirmed."
+  },
+  {
+   "id": "MH-2026-02-dharavi-apna-medical-unlicensed-storage",
+   "case_title": "Mumbai: FDA seizes medicines worth lakhs stored without a licence by M/s Apna Medical and General Stores (Sion) at a premises in Kumbharwada, Dharavi",
+   "state": "Maharashtra",
+   "city": "Kumbharwada, Dharavi, Mumbai (firm based in Sion)",
+   "date": "approx. late February or early March 2026 (article dated about 225 days before 7 Oct 2026)",
+   "agency": "Food and Drug Administration, Maharashtra (Assistant Commissioner (Intelligence) V.R. Ravi; Drug Inspectors Premdas Sakhare, Hemant Ade, Ajay Mahule)",
+   "accused": [
+    {
+     "name": "not reported",
+     "role": "proprietor",
+     "firm": "M/s Apna Medical and General Stores",
+     "location": "Sion, Mumbai"
+    }
+   ],
+   "firms": [
+    "M/s Apna Medical and General Stores, Sion, Mumbai (stored saline and other medicines at an unlicensed premises in Kumbharwada, Dharavi; no licence applied for)"
+   ],
+   "products": [
+    {
+     "brand": "saline and other medicines (brands not reported)",
+     "generic": "",
+     "original_manufacturer": "not reported",
+     "batch": "not reported",
+     "issue": "storage without a drug licence (Drugs and Cosmetics Act 1940 and Rules 1945); samples drawn"
+    }
+   ],
+   "fir_details": "not reported; action under the Drugs and Cosmetics Act",
+   "seizure_value_inr": "medicines worth lakhs (exact figure not reported)",
+   "hospital_link": "none reported",
+   "status": "Samples collected; remaining stock seized",
+   "sources": [
+    "https://www.freepressjournal.in/mumbai/mumbai-fda-uncovers-major-violation-lakhs-worth-of-medicines-seized-in-dharavi-raid"
+   ],
+   "confidence": "medium",
+   "priority": "P4-minor",
+   "verification": "search-sourced",
+   "enrichment": "Added 7 Oct 2026. Not the same firm as Apna Medical Store, Parasia (MP) in the Coldrif case."
+  },
+  {
+   "id": "MH-2026-09-amravati-zp-expired-medicines-sealed",
+   "case_title": "Amravati: FDA seals expired medicines (expired in 2021) found in the Zilla Parishad health department drug store (Leprosy Department room) after a complaint; six air-conditioners in the store found switched off",
+   "state": "Maharashtra",
+   "city": "Amravati",
+   "date": "2026-09-26 (UNI report)",
+   "agency": "Food and Drug Administration, Maharashtra, on a complaint by Samir Jawanjal",
+   "accused": [
+    {
+     "name": "Samir Jawanjal",
+     "role": "complainant (not accused)",
+     "firm": "",
+     "location": "Amravati"
+    }
+   ],
+   "firms": [
+    "Zilla Parishad Amravati, Health Department drug store (government store supplying district health facilities)"
+   ],
+   "products": [
+    {
+     "brand": "medicines that expired in 2021 (brands not reported)",
+     "generic": "",
+     "original_manufacturer": "not reported",
+     "batch": "not reported",
+     "issue": "expired government stock held in the ZP drug store; air-conditioning switched off"
+    }
+   ],
+   "fir_details": "not reported; stock sealed for examination",
+   "seizure_value_inr": "not reported",
+   "hospital_link": "YES (government supply chain): Zilla Parishad Amravati health department drug store, which supplies district health facilities; no facility named",
+   "status": "Stock sealed in the presence of FDA officials; examination pending",
+   "sources": [
+    "https://www.uniindia.com/west-india/admin-maha-fda-medicine-seizure/194104"
+   ],
+   "confidence": "medium",
+   "priority": "P1-hospital-supply",
+   "verification": "search-sourced",
+   "enrichment": "Added 7 Oct 2026."
+  },
+  {
+   "id": "CDSCO-2025-01-02-maharashtra-makers-direct-read",
+   "case_title": "Maharashtra manufacturers and marketers named in the CDSCO January and February 2025 drug alert PDFs (read directly): one spurious batch marketed from Borivali, Mumbai, and five NSQ batches from Tarapur, Nagpur, Aurangabad and Pune units",
+   "state": "Maharashtra (firms); samples drawn in various states",
+   "city": "Borivali East (Mumbai); Tarapur-Boisar (Palghar); Mihan (Nagpur); Chikalthana (Aurangabad); Mulshi (Pune)",
+   "date": "2025-01 and 2025-02 (CDSCO alerts)",
+   "agency": "CDSCO and state drug testing laboratories",
+   "accused": [],
+   "firms": [
+    "Wellnow Healthcare, Kanal Industrial Estate, Road No. 6, Borivali East, Mumbai 400066 (marketer of the spurious batch; manufacturer on label Geenac Pharma, Roorkee)",
+    "M/s Ciron Drugs & Pharmaceuticals Pvt. Ltd., N-118/119, MIDC, Tarapur, Boisar, Palghar 401506",
+    "Nubeno Healthcare Private Limited, Plot No. 10A, Sector 23, Mihan, Nagpur 441108",
+    "Maxwell Lifescience Pvt Ltd, T-53 and T-81, MIDC, Tarapur, Boisar, Palghar 401506",
+    "M/s Concept Pharmaceuticals Ltd., A-28/3, MIDC, Chikalthana, Aurangabad 431006",
+    "M/s T Walkers Pharmaceuticals Pvt Ltd, Gat No 285-B, Kasaramboli, Ambedvet, Mulshi, Pune 411004"
+   ],
+   "products": [
+    {
+     "brand": "Cefpodoxime & Potassium Clavulanate Tablets",
+     "generic": "cefpodoxime + clavulanic acid",
+     "original_manufacturer": "label: Geenac Pharma, Roorkee; marketed by Wellnow Healthcare, Borivali East, Mumbai",
+     "batch": "BPT-3003 (mfg 02/2024, exp 01/2026)",
+     "issue": "deemed SPURIOUS under Section 17B (fails identification and assay); Telangana state lab; Jan 2025 alert"
+    },
+    {
+     "brand": "Metoclopramide Injection BP",
+     "generic": "metoclopramide",
+     "original_manufacturer": "Ciron Drugs & Pharmaceuticals, Tarapur",
+     "batch": "4EC038092 (Aug-2024/Jul-2027)",
+     "issue": "NSQ: description and particulate contamination; Jan 2025"
+    },
+    {
+     "brand": "Nusafe 2 ml hypodermic syringe with needle",
+     "generic": "syringe",
+     "original_manufacturer": "Nubeno Healthcare, Mihan, Nagpur",
+     "batch": "2407154 (Jul-2024/Jun-2029)",
+     "issue": "NSQ: sterility; Jan 2025"
+    },
+    {
+     "brand": "Co-Trimoxazole Tablets IP 480 mg",
+     "generic": "sulphamethoxazole + trimethoprim",
+     "original_manufacturer": "Maxwell Lifescience, Tarapur",
+     "batch": "MT402 (Jan-2024/Dec-2026)",
+     "issue": "NSQ: dissolution; Jan 2025"
+    },
+    {
+     "brand": "Conmet SR-500 (Metformin SR 500 mg)",
+     "generic": "metformin",
+     "original_manufacturer": "Concept Pharmaceuticals, Chikalthana, Aurangabad",
+     "batch": "C21D934003 (Jun-2024/May-2027)",
+     "issue": "NSQ: dissolution; Jan 2025"
+    },
+    {
+     "brand": "Midazolam Injection IP",
+     "generic": "midazolam",
+     "original_manufacturer": "T Walkers Pharmaceuticals, Mulshi, Pune",
+     "batch": "24257",
+     "issue": "NSQ: assay and pH (IP 2022); Feb 2025"
+    }
+   ],
+   "fir_details": "not applicable (regulatory alert)",
+   "seizure_value_inr": "",
+   "hospital_link": "hospital-relevant products (injectables, syringes, antibiotics); no hospital named",
+   "status": "Listed in CDSCO monthly alerts; NSQ batches to be withdrawn by manufacturers",
+   "sources": [
+    "https://cdsco.gov.in/opencms/opencms/en/Notifications/Alerts/ (egress-blocked in this session; not fetched live)",
+    "file:///home/user/RA/cdsco_jan25.html (locally saved CDSCO NSQ portal JSON, 145 records, dt_reporting_month_year JAN-2025)",
+    "file:///home/user/RA/state_nsq_jan25.pdf (locally saved 'NOT OF STANDARD QUALITY ALERT FOR THE MONTH OF JANUARY-2025', B. State Laboratories, 22 pages, 93 entries)",
+    "https://cdsco.gov.in/opencms/opencms/en/Notifications/Alerts/",
+    "https://cdsco.gov.in/opencms/opencms/en/Notifications/nsq-drugs/",
+    "https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/download_file_division.jsp?num_id=MTI2MTI="
+   ],
+   "confidence": "high",
+   "priority": "P3-regulatory-alert",
+   "verification": "fetched-official",
+   "enrichment": "Compiled 7 Oct 2026 from the CDSCO PDF entries already in this dataset."
+  },
+  {
+   "id": "REFERENCE-bpt-mumbai-port-authority-hospital-wadala-check-2026-10-07",
+   "case_title": "BPT / Mumbai Port Authority Hospital, Nadkarni Park, Wadala East: checked 7 Oct 2026, no counterfeit, spurious, NSQ, FIR or FDA case found; in-house pharmacy run under a two-year contract dated 01.09.2025; Rs 693 crore PPP redevelopment (Grand Port Hospital, Ajeenkya DY Patil Infra) under a central high-level committee",
+   "state": "Maharashtra",
+   "city": "Wadala East, Mumbai",
+   "date": "2026-10-07 (check date)",
+   "agency": "none (negative check)",
+   "accused": [],
+   "firms": [],
+   "products": [],
+   "fir_details": "none found",
+   "seizure_value_inr": "",
+   "hospital_link": "Mumbai Port Authority Hospital (formerly Mumbai Port Trust / BPT Hospital), 241 beds, Nadkarni Park, Wadala East, Mumbai 400037; MbPA tender list shows 'establishment of inhouse pharmacy of Mumbai Port Trust Hospital, Wadala E' with a contract dated 01.09.2025 for two years (contractor name not retrievable; site blocked); PPP revamp to 600-bed Grand Port Hospital (Rs 693 crore) awarded to Ajeenkya DY Patil Infra in Oct 2019, single-bidder eligibility questioned, central high-level committee appointed, phase 1 reported complete but idle (Free Press Journal)",
+   "status": "No adverse case found in English, Hindi or Marathi coverage, CDSCO alert reporting, or this dataset",
+   "sources": [
+    "https://mumbaiport.gov.in/WriteReadData/RTF1984/1768555592.pdf",
+    "https://mumbaiport.gov.in/WriteReadData/RTF1984/1696569884.pdf",
+    "https://www.freepressjournal.in/mumbai/mumbai-super-speciality-mpt-hospital-in-wadala-stands-idle-despite-completion-denying-citizens-high-quality-healthcare",
+    "https://www.maharashtravarta.com/central-government-appoints-high-level-committee-to-examine-the-controversial-mumbai-port-trust-hospital-project/",
+    "https://www.mumbailive.com/en/health/the-makeover-of-mumbai-port-trust-hospital-in-wadala-by-ajeenkya-d.-y.-patil-infra-pvt-ltd.-45768"
+   ],
+   "confidence": "medium",
+   "priority": "P4-minor",
+   "verification": "search-sourced",
+   "enrichment": "Negative check recorded 7 Oct 2026."
   }
  ],
  "cdsco_months": [
